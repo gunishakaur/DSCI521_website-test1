@@ -3,3 +3,4 @@ title: "About"
 ---
 
 About this site
+Hello world, My name is Gunisha kaur, I am currently pursuing masters in Data Science at University of British Columbia
